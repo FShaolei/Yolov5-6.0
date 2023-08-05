@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+# @Time : 2023/7/28 11:21
+# @Author : Leo_F
+# @Email : Fshaolei.F@gmail.com
+# @File : Leo_F.yaml
+# @Software ：Pycharm
+path: path/Yolov5-6/data_set/
+train: train.txt
+val: val.txt
+test: test.txt
+
+# Classes
+nc: number
+names: ['class1', 'class2', 'class3', 'class4', 'class5']
